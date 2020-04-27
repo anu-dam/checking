@@ -15,3 +15,6 @@ Authors
 ! [Chandu Koritala] (https://github.com/ChanduKoritala)
 
 ! [Anu Dambaladeniya] (https://github.com/anu-dam)
+
+[I'm an inline-style link](https://www.google.com)
+
