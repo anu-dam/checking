@@ -11,10 +11,11 @@ GIT Repository https://github.com/JameskuttySebastian/Task-Management-System
 Authors
 
 
-
-! [Chandu Koritala](https://github.com/ChanduKoritala)
-
-! [Anu Dambaladeniya](https://github.com/anu-dam)
-
 [Jameskutty Sebastian](https://github.com/JameskuttySebastian)
+
+[Chandu Koritala](https://github.com/ChanduKoritala)
+
+[Anu Dambaladeniya](https://github.com/anu-dam)
+
+
 
