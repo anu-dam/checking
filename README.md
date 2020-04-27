@@ -4,9 +4,9 @@ Technologies Used
 
 Application build with MERN technologies such as JavaScript, ReactJS,NodeJs, Express, Mysql and Materia-UI mainly and we used Google API service for address serch functionality. Furthermore we install JWT, Cors, Axios Sequalize NPM packages in order to obtain middleware support
 
-Heroku Repository https://team-task-management-system.herokuapp.com/
+[Heroku Repository](https://team-task-management-system.herokuapp.com)
 
-GIT Repository https://github.com/JameskuttySebastian/Task-Management-System
+[GIT Repository](https://github.com/JameskuttySebastian/Task-Management-System)
 
 Authors
 
