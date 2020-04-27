@@ -16,5 +16,5 @@ Authors
 
 ! [Anu Dambaladeniya] (https://github.com/anu-dam)
 
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://github.com/JameskuttySebastian)
 
